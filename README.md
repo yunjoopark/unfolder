@@ -2,7 +2,7 @@
 
 ## Objective
 You goal is to provide an implementation of a couple of unfolding heuristics from 'Schlickenrieder, Wolfram. "Nets of polyhedra." Master's Thesis, Technische Universität Berlin (1997).'
-* You can download his thesis from [here](https://scholar.google.com/scholar?q=Nets%20of%20polyhedra)
+* You can download his thesis from [this link](https://scholar.google.com/scholar?q=Nets%20of%20polyhedra)
 
 ## Compile and run
 * To compile and run the provided code, please consult the details in the [wiki page](https://github.com/jmlien/unfolder/wiki)
