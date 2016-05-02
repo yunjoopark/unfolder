@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+D:/Projects/unfolder/src/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindGLUT.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
