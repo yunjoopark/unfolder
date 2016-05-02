@@ -52,6 +52,10 @@ Splitter* Splitter::createSplitter(CutHeuristic heuristic) {
     return new RandomSplitter();
   case CutHeuristic::BRUTE_FORCE:
     return new BruteForceSplitter();
+  case CutHeuristic::MY_UNFOLDER_01:
+	  return new MySplitter01();
+  case CutHeuristic::MY_UNFOLDER_02:
+	  return new MySplitter02();
   default:
     assert(false);
     break;
@@ -267,23 +271,6 @@ vector<float> BruteForceSplitter::assignWeights(model *m,
   return this->m_weights;
 }
 
-vector<float> BruteForceSplitter::assignWeights(model *m,
-	const Config& config) {
-	if (!this->m_inited) {
-		this->init(m->e_size);
-		this->m_inited = true;
-	}
-	else {
-		if (!std::next_permutation(this->m_weights.begin(),
-			this->m_weights.end())) {
-			cerr << "All possible permutation tried!" << endl;
-			assert(false);
-		}
-	}
-
-	return this->m_weights;
-}
-
 // 
 // TODO #1: This is your first splitter
 //
@@ -292,6 +279,13 @@ vector<float> MySplitter01::assignWeights(model *m, const Config& config)
 {
     //TODO: implement a splitter
 	vector<float> weights(m->e_size);
+
+	//TODO: remove the following line after you complete your implementation
+	{
+		cout << "! ERROR: MySplitter01::assignWeights is not implemented" << endl;
+		exit(1);
+	}
+
 	return weights;
 }
 
@@ -304,6 +298,13 @@ vector<float> MySplitter02::assignWeights(model *m, const Config& config)
 {
 	//TODO: implement another splitter
 	vector<float> weights(m->e_size);
+
+	//TODO: remove the following line after you complete your implementation
+	{
+		cout << "! ERROR: MySplitter02::assignWeights is not implemented" << endl;
+		exit(1);
+	}
+
 	return weights;
 }
 

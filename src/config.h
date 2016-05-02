@@ -21,7 +21,9 @@ enum class CutHeuristic {
   MINIMUM_PERIMETER,
   STEEPEST_EDGE,
   RANDOM,
-  BRUTE_FORCE
+  BRUTE_FORCE,
+  MY_UNFOLDER_01,
+  MY_UNFOLDER_02
 };
 
 struct Config {

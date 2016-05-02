@@ -83,6 +83,10 @@ bool parseArg(int argc, char ** argv) {
         config.heuristic = CutHeuristic::RANDOM;
       else if (heuristic[0] == 'b')
         config.heuristic = CutHeuristic::BRUTE_FORCE;
+	  else if (heuristic[0] == '1')
+		  config.heuristic = CutHeuristic::MY_UNFOLDER_01;
+	  else if (heuristic[0] == '2')
+		  config.heuristic = CutHeuristic::MY_UNFOLDER_02;
       else {
         cerr << "!Error! Unknown heuristic type = " << heuristic << endl;
         return false;
@@ -148,6 +152,8 @@ void printUsage(char * name) {
   cerr << "      f        | FLAT_TREE (default)\n";
   cerr << "      p        | MINIMUM_PERIMETER\n";
   cerr << "      r        | RANDOM\n";
+  cerr << "      1        | Your Unfolder 01\n";
+  cerr << "      2        | Your Unfolder 02\n";
   cerr << "\n";
 
   cerr << "Unfolding\n";
