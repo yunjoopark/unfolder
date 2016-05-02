@@ -67,6 +67,29 @@ protected:
     bool m_inited;
 };
 
+
+// 
+// TODO #1: This is your first splitter
+//
+class MySplitter01 : public Splitter {
+public:
+	MySplitter01(){}
+	virtual ~MySplitter01() {}
+	virtual vector<float> assignWeights(model *m, const Config& config) override;
+};
+
+
+// 
+// TODO #2: This is your second splitter
+//
+class MySplitter02 : public Splitter {
+public:
+	MySplitter02(){}
+	virtual ~MySplitter02() {}
+	virtual vector<float> assignWeights(model *m, const Config& config) override;
+};
+
+
 } /* namespace masc */
 
 #endif /* SPLITTER_H_ */

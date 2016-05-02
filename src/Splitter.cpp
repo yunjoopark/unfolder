@@ -202,8 +202,6 @@ vector<float> SteepestEdgeSplitter::assignWeights(model* m,
     }
   }
 
-//    assert(selected_edges.size() == m->v_size-1);
-
 // assign weight
   for (auto i = 0; i < m->e_size; ++i) {
     const auto& e = m->edges[i];
@@ -213,11 +211,6 @@ vector<float> SteepestEdgeSplitter::assignWeights(model* m,
     if (selected_edges.count(i)) {
       weight = 1.0;
     }
-
-//        if(e.folding_angle == 0) {
-//            cout<<"e.fa = 0"<<endl;
-//            weight = 1e10;
-//        }
 
     const auto fid1 = e.fid[0];
     const auto fid2 = e.fid[1];
@@ -273,5 +266,46 @@ vector<float> BruteForceSplitter::assignWeights(model *m,
 
   return this->m_weights;
 }
+
+vector<float> BruteForceSplitter::assignWeights(model *m,
+	const Config& config) {
+	if (!this->m_inited) {
+		this->init(m->e_size);
+		this->m_inited = true;
+	}
+	else {
+		if (!std::next_permutation(this->m_weights.begin(),
+			this->m_weights.end())) {
+			cerr << "All possible permutation tried!" << endl;
+			assert(false);
+		}
+	}
+
+	return this->m_weights;
+}
+
+// 
+// TODO #1: This is your first splitter
+//
+
+vector<float> MySplitter01::assignWeights(model *m, const Config& config) 
+{
+    //TODO: implement a splitter
+	vector<float> weights(m->e_size);
+	return weights;
+}
+
+
+// 
+// TODO #1: This is your second splitter
+//
+
+vector<float> MySplitter02::assignWeights(model *m, const Config& config)
+{
+	//TODO: implement another splitter
+	vector<float> weights(m->e_size);
+	return weights;
+}
+
 
 } /* namespace masc */
