@@ -39,8 +39,8 @@ int main(int argc, char ** argv) {
   glutInit(&argc, argv);
   glutInitDisplayMode(
   GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH | GLUT_MULTISAMPLE);
-  glutInitWindowSize(880, 880);
-  glutInitWindowPosition(50, 50);
+  glutInitWindowSize(500, 500);
+  glutInitWindowPosition(1000, 300);
   glutCreateWindow("unfolder");
 
   InitGL();

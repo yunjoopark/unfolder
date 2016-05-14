@@ -461,9 +461,10 @@ void dumpUnfolding(bool flattened_only = false) {
 
     const auto base_name = u->getFilename().substr(0,
         u->getFilename().find_last_of("."));
-    const auto prefix = base_name
-        + (u->getConfig().no_tick ? "" : "_s" + std::to_string(config.seed));
-
+    /*const auto prefix = base_name
+        + (u->getConfig().no_tick ? "" : "_s" + std::to_string(config.seed));*/
+	const auto prefix = base_name
+		+ (u->getConfig().no_tick ? "" : "_s");
     u->dumpSVG(prefix + ".svg");
 
     // dump cut svg
