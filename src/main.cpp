@@ -40,7 +40,7 @@ int main(int argc, char ** argv) {
   glutInitDisplayMode(
   GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH | GLUT_MULTISAMPLE);
   glutInitWindowSize(500, 500);
-  glutInitWindowPosition(1000, 300);
+  glutInitWindowPosition(1000, 220);
   glutCreateWindow("unfolder");
 
   InitGL();

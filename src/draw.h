@@ -461,10 +461,10 @@ void dumpUnfolding(bool flattened_only = false) {
 
     const auto base_name = u->getFilename().substr(0,
         u->getFilename().find_last_of("."));
+	// YJ changes
     /*const auto prefix = base_name
         + (u->getConfig().no_tick ? "" : "_s" + std::to_string(config.seed));*/
-	const auto prefix = base_name
-		+ (u->getConfig().no_tick ? "" : "_s");
+	const auto prefix = base_name + (u->getConfig().no_tick ? "" : "_f");
     u->dumpSVG(prefix + ".svg");
 
     // dump cut svg
@@ -611,6 +611,7 @@ void printGUIKeys() {
 
   cout << "---------- GUI keys ----------" << endl;
   cout << "Displaying:" << endl;
+  cout << "  a: unfold randomly" << endl;	// YJ
   cout << "  b: show background" << endl;
   cout << "  c: toggle random colors" << endl;
   cout << "  e: show edge types" << endl;
