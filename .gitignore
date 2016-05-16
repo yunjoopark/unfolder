@@ -4,7 +4,6 @@
 *.aux
 *.log
 *.synctex.gz
-*.exe
 *.suo
 *.sdf
 *.pdb
