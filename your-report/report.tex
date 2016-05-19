@@ -950,9 +950,15 @@ Unlike testing on convex models, unfolding a non-convex model requires many atte
 
 \clearpage
 \section{Foundings}
-Although four methods do not work well for non-convex model, they successfully generate unfolded polygons for convex models. The program attepts at most 1000 times for non-convex models. As a result, only \textit{the rightmost ascending edge unfold} method can generate a unfolded polygon for \textit{star-4split} model.
-
-
+Since I use a random vector $c$ with $\Vert c \Vert = 1$, I do not care about length. Although four methods do not work well for non-convex model, they successfully generate unfolded polygons for convex models. 
+\begin{itemize}
+	\item{Time}
+	\\All methods take similar amount of time. However, the rightmost ascendiing edge unfold method takes more time with a complicated model.
+	\item{Overlapping}
+	\\The flat edge unfold method has much more than the others.
+	\item{Height}
+	\\The height of tree of the rightmost ascending edge is higher than the others.
+\end{itemize}
 % \begin{figure*}[th]
 % \centering
 % \subfigure[The Steepest Edge Unfold]
