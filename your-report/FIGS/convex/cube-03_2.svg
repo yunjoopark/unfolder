@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<svg width="10000" height="8666" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:12.500000;}
+.v {stroke:rgb(0,0,255);stroke-width:12.500000;}
+.b {stroke:rgb(0,0,0);stroke-width:25.000000;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:12.500000}
+.t {stroke:rgb(0,128,0);stroke-width:12.500000;}
+.c {stroke:rgb(128,128,128);stroke-width:12.500000;stroke-dasharray:100.000000, 100.000000;}
+]]></style>
+</defs>
+<line x1="8000.000000" y1="6000.000000" x2="7333.333400" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="7333.333400" y1="6000.000000" x2="8000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="6666.666600" x2="8000.000000" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="7333.333400" y1="6666.666600" x2="8000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="7333.333400" y1="6000.000000" x2="7333.333400" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="7333.333400" y1="6000.000000" x2="6666.666600" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="6666.666600" y1="6000.000000" x2="7333.333400" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="7333.333400" x2="2666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="7333.333400" x2="3333.333400" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="8000.000000" x2="3333.333400" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="8000.000000" x2="4000.000000" y2="8000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="8000.000000" x2="3333.333400" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="7333.333400" x2="3333.333400" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="8000.000000" x2="4000.000000" y2="7333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="7333.333400" y1="6666.666600" x2="8000.000000" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="7333.333400" x2="8000.000000" y2="6666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="6666.666600" x2="2000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="6666.666600" x2="2666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="7333.333400" x2="2666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="7333.333400" x2="2666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="6666.666600" x2="2666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="7333.333400" x2="3333.333400" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="7333.333400" x2="3333.333400" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6666.666600" x2="3333.333400" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="7333.333400" x2="4000.000000" y2="6666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="6666.666600" x2="2000.000000" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="6000.000000" x2="2000.000000" y2="6666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="6000.000000" x2="2000.000000" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="6666.666600" x2="2666.666600" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="6666.666600" x2="2666.666600" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="6000.000000" x2="2666.666600" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="3333.333400" y1="6666.666600" x2="3333.333400" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6666.666600" x2="3333.333400" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6000.000000" x2="3333.333400" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="6666.666600" x2="4000.000000" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="6000.000000" x2="2000.000000" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="5333.333400" x2="2000.000000" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="5333.333400" x2="2000.000000" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="6000.000000" x2="2666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="6000.000000" x2="2666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="5333.333400" x2="2666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="6000.000000" x2="3333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6000.000000" x2="3333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="5333.333400" x2="3333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6000.000000" x2="4000.000000" y2="5333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="5333.333400" x2="2000.000000" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="4666.666600" x2="2000.000000" y2="5333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="4666.666600" x2="2000.000000" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="5333.333400" x2="2666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="5333.333400" x2="2666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="4666.666600" x2="2666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="5333.333400" x2="3333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="5333.333400" x2="3333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4666.666600" x2="3333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="5333.333400" x2="4000.000000" y2="4666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="4666.666600" x2="2000.000000" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="4000.000000" x2="2000.000000" y2="4666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="4000.000000" x2="2000.000000" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="4666.666600" x2="2666.666600" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="4666.666600" x2="2666.666600" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="4000.000000" x2="2666.666600" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="3333.333400" y1="4666.666600" x2="3333.333400" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4666.666600" x2="3333.333400" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4000.000000" x2="3333.333400" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="4666.666600" x2="4000.000000" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="4000.000000" x2="2000.000000" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="3333.333400" x2="2000.000000" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="3333.333400" x2="2000.000000" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="4000.000000" x2="2666.666600" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="4000.000000" x2="2666.666600" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="3333.333400" x2="2666.666600" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="4000.000000" x2="3333.333400" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4000.000000" x2="3333.333400" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="3333.333400" x2="3333.333400" y2="3333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4000.000000" x2="4000.000000" y2="3333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="3333.333400" x2="2000.000000" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="2666.666600" x2="2000.000000" y2="3333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="2666.666600" x2="2000.000000" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="3333.333400" x2="2666.666600" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="3333.333400" x2="2666.666600" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="2666.666600" x2="2666.666600" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="3333.333400" x2="3333.333400" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="3333.333400" x2="3333.333400" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="2666.666600" x2="3333.333400" y2="2666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="3333.333400" x2="4000.000000" y2="2666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="2666.666600" x2="2000.000000" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="2000.000000" x2="2000.000000" y2="2666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="2000.000000" x2="2000.000000" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="2666.666600" x2="2666.666600" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="2666.666600" x2="2666.666600" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="2000.000000" x2="2666.666600" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="3333.333400" y1="2666.666600" x2="3333.333400" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="2666.666600" x2="3333.333400" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="2000.000000" x2="3333.333400" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="2666.666600" x2="4000.000000" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="2000.000000" x2="2000.000000" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="1333.333400" x2="2000.000000" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="1333.333400" x2="2000.000000" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="2000.000000" x2="2666.666600" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="2000.000000" x2="2666.666600" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="1333.333400" x2="2666.666600" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="2000.000000" x2="3333.333400" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="2000.000000" x2="3333.333400" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4666.666600" x2="6666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="6666.666600" y1="4666.666600" x2="6000.000000" y2="4000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4000.000000" x2="6000.000000" y2="4666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="1333.333400" x2="2000.000000" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="666.666600" x2="2000.000000" y2="1333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="666.666600" x2="2000.000000" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2666.666600" y1="1333.333400" x2="2666.666600" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="3333.333400" y1="1333.333400" x2="2666.666600" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="6666.666600" y1="5333.333400" x2="7333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="7333.333400" y1="5333.333400" x2="6666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="6666.666600" y1="4666.666600" x2="6666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4666.666600" x2="6666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="5333.333400" x2="6666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4666.666600" x2="6000.000000" y2="5333.333400" class="m" style="stroke-width:20.000000;" />
+<line x1="2000.000000" y1="0.000000" x2="2000.000000" y2="666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="2666.666600" y1="666.666600" x2="2000.000000" y2="0.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="7333.333400" y1="5333.333400" x2="7333.333400" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="6000.000000" x2="7333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6666.666600" y1="5333.333400" x2="7333.333400" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="6666.666600" y1="5333.333400" x2="6666.666600" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="5333.333400" x2="6666.666600" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="8000.000000" x2="4000.000000" y2="8000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="8000.000000" x2="4000.000000" y2="8666.666600" class="m" style="stroke-width:20.000000;" />
+<line x1="4000.000000" y1="8666.666600" x2="4666.666600" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="4666.666600" x2="6000.000000" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4000.000000" x2="5333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4000.000000" x2="5333.333400" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="5333.333400" y1="4000.000000" x2="5333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="5333.333400" x2="6000.000000" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="6000.000000" y1="4666.666600" x2="5333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="4666.666600" x2="5333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="8000.000000" x2="4000.000000" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="8000.000000" x2="4666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="7333.333400" x2="4000.000000" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="4666.666600" x2="5333.333400" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="4000.000000" x2="4666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="4000.000000" x2="4666.666600" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4666.666600" y1="4000.000000" x2="4666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="5333.333400" x2="5333.333400" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="5333.333400" y1="4666.666600" x2="4666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="4666.666600" x2="4666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="7333.333400" x2="4000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="7333.333400" x2="4666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="6666.666600" x2="4000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="4000.000000" x2="4000.000000" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="4666.666600" x2="4666.666600" y2="4666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="4000.000000" x2="4000.000000" y2="4000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="4666.666600" y1="4666.666600" x2="4000.000000" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="5333.333400" x2="4666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="4666.666600" y1="6666.666600" x2="4000.000000" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="4000.000000" y1="6000.000000" x2="4666.666600" y2="5333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="1333.333400" y1="2000.000000" x2="2000.000000" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="2000.000000" y1="1333.333400" x2="1333.333400" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="1333.333400" x2="1333.333400" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="1333.333400" y1="1333.333400" x2="1333.333400" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="666.666600" x2="1333.333400" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="1333.333400" y1="666.666600" x2="1333.333400" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="666.666600" x2="1333.333400" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="0.000000" x2="1333.333400" y2="666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="6666.666600" x2="8666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="8666.666600" y1="6666.666600" x2="8000.000000" y2="6000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="666.666600" y1="2000.000000" x2="1333.333400" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="1333.333400" y1="1333.333400" x2="666.666600" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="1333.333400" y1="1333.333400" x2="666.666600" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="666.666600" y1="1333.333400" x2="666.666600" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="1333.333400" y1="666.666600" x2="666.666600" y2="1333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="8666.666600" y1="7333.333400" x2="9333.333400" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="9333.333400" y1="7333.333400" x2="8666.666600" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<line x1="8666.666600" y1="6666.666600" x2="8666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="6666.666600" x2="8666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="7333.333400" x2="8666.666600" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="0.000000" y1="2000.000000" x2="666.666600" y2="2000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="666.666600" y1="1333.333400" x2="0.000000" y2="2000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="9333.333400" y1="8000.000000" x2="10000.000000" y2="8000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="10000.000000" y1="8000.000000" x2="9333.333400" y2="7333.333400" class="n" style="stroke-width:2.500000;" />
+<line x1="9333.333400" y1="7333.333400" x2="9333.333400" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="8666.666600" y1="7333.333400" x2="9333.333400" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="8666.666600" y1="8000.000000" x2="9333.333400" y2="8000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="8666.666600" y1="7333.333400" x2="8666.666600" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="8000.000000" y1="7333.333400" x2="8666.666600" y2="8000.000000" class="n" style="stroke-width:2.500000;" />
+<line x1="2000.000000" y1="6000.000000" x2="1333.333400" y2="6000.000000" class="m" style="stroke-width:20.000000;" />
+<line x1="1333.333400" y1="6000.000000" x2="2000.000000" y2="6666.666600" class="n" style="stroke-width:2.500000;" />
+<text x="7642.155551" y="6308.822151" transform="rotate(44.999998 7642.155551 6308.822151)" fill="darkgreen" font-weight="bold" font-size="173.320000">1</text>
+<text x="7691.177849" y="6357.844449" transform="rotate(-134.999993 7691.177849 6357.844449)" fill="darkgreen" font-weight="bold" font-size="173.320000">1</text>
+<text x="6975.488847" y="6308.822154" transform="rotate(44.999989 6975.488847 6308.822154)" fill="darkgreen" font-weight="bold" font-size="173.320000">6</text>
+<text x="2975.488847" y="7642.155554" transform="rotate(44.999989 2975.488847 7642.155554)" fill="darkgreen" font-weight="bold" font-size="173.320000">6</text>
+<text x="3632.002700" y="8000.000000" transform="rotate(0.000000 3632.002700 8000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">9</text>
+<text x="4000.000000" y="8298.669300" transform="rotate(89.999995 4000.000000 8298.669300)" fill="darkgreen" font-weight="bold" font-size="173.320000">9</text>
+<text x="7617.644408" y="6950.977694" transform="rotate(45.000006 7617.644408 6950.977694)" fill="darkgreen" font-weight="bold" font-size="173.320000">13</text>
+<text x="2284.311008" y="6950.977694" transform="rotate(45.000006 2284.311008 6950.977694)" fill="darkgreen" font-weight="bold" font-size="173.320000">13</text>
+<text x="3049.022299" y="7049.022299" transform="rotate(-134.999993 3049.022299 7049.022299)" fill="darkgreen" font-weight="bold" font-size="173.320000">17</text>
+<text x="2950.977701" y="6950.977701" transform="rotate(44.999998 2950.977701 6950.977701)" fill="darkgreen" font-weight="bold" font-size="173.320000">17</text>
+<text x="3715.688992" y="7049.022306" transform="rotate(-134.999984 3715.688992 7049.022306)" fill="darkgreen" font-weight="bold" font-size="173.320000">20</text>
+<text x="3617.644408" y="6950.977694" transform="rotate(45.000006 3617.644408 6950.977694)" fill="darkgreen" font-weight="bold" font-size="173.320000">20</text>
+<text x="2382.355599" y="6382.355599" transform="rotate(-134.999993 2382.355599 6382.355599)" fill="darkgreen" font-weight="bold" font-size="173.320000">23</text>
+<text x="2284.311001" y="6284.311001" transform="rotate(44.999998 2284.311001 6284.311001)" fill="darkgreen" font-weight="bold" font-size="173.320000">23</text>
+<text x="3049.022306" y="6382.355592" transform="rotate(-135.000001 3049.022306 6382.355592)" fill="darkgreen" font-weight="bold" font-size="173.320000">27</text>
+<text x="2950.977694" y="6284.311008" transform="rotate(44.999989 2950.977694 6284.311008)" fill="darkgreen" font-weight="bold" font-size="173.320000">27</text>
+<text x="3715.688999" y="6382.355599" transform="rotate(-134.999993 3715.688999 6382.355599)" fill="darkgreen" font-weight="bold" font-size="173.320000">30</text>
+<text x="3617.644401" y="6284.311001" transform="rotate(44.999998 3617.644401 6284.311001)" fill="darkgreen" font-weight="bold" font-size="173.320000">30</text>
+<text x="1735.994700" y="6000.000000" transform="rotate(179.999990 1735.994700 6000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">34</text>
+<text x="2000.000000" y="5597.338700" transform="rotate(89.999995 2000.000000 5597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">34</text>
+<text x="2666.666600" y="5735.994700" transform="rotate(-89.999995 2666.666600 5735.994700)" fill="darkgreen" font-weight="bold" font-size="173.320000">35</text>
+<text x="2666.666600" y="5597.338700" transform="rotate(89.999995 2666.666600 5597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">35</text>
+<text x="3333.333400" y="5735.994700" transform="rotate(-89.999995 3333.333400 5735.994700)" fill="darkgreen" font-weight="bold" font-size="173.320000">38</text>
+<text x="3333.333400" y="5597.338700" transform="rotate(89.999995 3333.333400 5597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">38</text>
+<text x="8930.672000" y="8000.000000" transform="rotate(0.000000 8930.672000 8000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">44</text>
+<text x="2000.000000" y="4930.672000" transform="rotate(89.999995 2000.000000 4930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">44</text>
+<text x="2666.666600" y="5069.328000" transform="rotate(-89.999995 2666.666600 5069.328000)" fill="darkgreen" font-weight="bold" font-size="173.320000">45</text>
+<text x="2666.666600" y="4930.672000" transform="rotate(89.999995 2666.666600 4930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">45</text>
+<text x="3333.333400" y="5069.328000" transform="rotate(-89.999995 3333.333400 5069.328000)" fill="darkgreen" font-weight="bold" font-size="173.320000">48</text>
+<text x="3333.333400" y="4930.672000" transform="rotate(89.999995 3333.333400 4930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">48</text>
+<text x="9597.338700" y="8000.000000" transform="rotate(0.000000 9597.338700 8000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">54</text>
+<text x="2000.000000" y="4264.005300" transform="rotate(89.999995 2000.000000 4264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">54</text>
+<text x="2666.666600" y="4402.661300" transform="rotate(-89.999995 2666.666600 4402.661300)" fill="darkgreen" font-weight="bold" font-size="173.320000">55</text>
+<text x="2666.666600" y="4264.005300" transform="rotate(89.999995 2666.666600 4264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">55</text>
+<text x="3333.333400" y="4402.661300" transform="rotate(-89.999995 3333.333400 4402.661300)" fill="darkgreen" font-weight="bold" font-size="173.320000">58</text>
+<text x="3333.333400" y="4264.005300" transform="rotate(89.999995 3333.333400 4264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">58</text>
+<text x="264.005300" y="2000.000000" transform="rotate(-0.000000 264.005300 2000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">64</text>
+<text x="2000.000000" y="3597.338700" transform="rotate(89.999995 2000.000000 3597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">64</text>
+<text x="2666.666600" y="3735.994700" transform="rotate(-89.999995 2666.666600 3735.994700)" fill="darkgreen" font-weight="bold" font-size="173.320000">65</text>
+<text x="2666.666600" y="3597.338700" transform="rotate(89.999995 2666.666600 3597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">65</text>
+<text x="3333.333400" y="3735.994700" transform="rotate(-89.999995 3333.333400 3735.994700)" fill="darkgreen" font-weight="bold" font-size="173.320000">68</text>
+<text x="3333.333400" y="3597.338700" transform="rotate(89.999995 3333.333400 3597.338700)" fill="darkgreen" font-weight="bold" font-size="173.320000">68</text>
+<text x="4000.000000" y="3735.994700" transform="rotate(-89.999995 4000.000000 3735.994700)" fill="darkgreen" font-weight="bold" font-size="173.320000">71</text>
+<text x="4402.661300" y="4000.000000" transform="rotate(179.999990 4402.661300 4000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">71</text>
+<text x="930.672000" y="2000.000000" transform="rotate(0.000000 930.672000 2000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">74</text>
+<text x="2000.000000" y="2930.672000" transform="rotate(89.999995 2000.000000 2930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">74</text>
+<text x="2666.666600" y="3069.328000" transform="rotate(-89.999995 2666.666600 3069.328000)" fill="darkgreen" font-weight="bold" font-size="173.320000">75</text>
+<text x="2666.666600" y="2930.672000" transform="rotate(89.999995 2666.666600 2930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">75</text>
+<text x="3333.333400" y="3069.328000" transform="rotate(-89.999995 3333.333400 3069.328000)" fill="darkgreen" font-weight="bold" font-size="173.320000">78</text>
+<text x="3333.333400" y="2930.672000" transform="rotate(89.999995 3333.333400 2930.672000)" fill="darkgreen" font-weight="bold" font-size="173.320000">78</text>
+<text x="4000.000000" y="3069.328000" transform="rotate(-89.999995 4000.000000 3069.328000)" fill="darkgreen" font-weight="bold" font-size="173.320000">81</text>
+<text x="5069.328000" y="4000.000000" transform="rotate(179.999990 5069.328000 4000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">81</text>
+<text x="1597.338700" y="2000.000000" transform="rotate(-0.000000 1597.338700 2000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">84</text>
+<text x="2000.000000" y="2264.005300" transform="rotate(89.999995 2000.000000 2264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">84</text>
+<text x="2666.666600" y="2402.661300" transform="rotate(-89.999995 2666.666600 2402.661300)" fill="darkgreen" font-weight="bold" font-size="173.320000">85</text>
+<text x="2666.666600" y="2264.005300" transform="rotate(89.999995 2666.666600 2264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">85</text>
+<text x="3333.333400" y="2402.661300" transform="rotate(-89.999995 3333.333400 2402.661300)" fill="darkgreen" font-weight="bold" font-size="173.320000">88</text>
+<text x="3333.333400" y="2264.005300" transform="rotate(89.999995 3333.333400 2264.005300)" fill="darkgreen" font-weight="bold" font-size="173.320000">88</text>
+<text x="4000.000000" y="2402.661300" transform="rotate(-89.999995 4000.000000 2402.661300)" fill="darkgreen" font-weight="bold" font-size="173.320000">91</text>
+<text x="5735.994700" y="4000.000000" transform="rotate(179.999990 5735.994700 4000.000000)" fill="darkgreen" font-weight="bold" font-size="173.320000">91</text>
+<text x="2382.355599" y="1715.688999" transform="rotate(-134.999993 2382.355599 1715.688999)" fill="darkgreen" font-weight="bold" font-size="173.320000">93</text>
+<text x="2284.311001" y="1617.644401" transform="rotate(44.999998 2284.311001 1617.644401)" fill="darkgreen" font-weight="bold" font-size="173.320000">93</text>
+<text x="3049.022306" y="1715.688992" transform="rotate(-135.000001 3049.022306 1715.688992)" fill="darkgreen" font-weight="bold" font-size="173.320000">97</text>
+<text x="2950.977694" y="1617.644408" transform="rotate(44.999989 2950.977694 1617.644408)" fill="darkgreen" font-weight="bold" font-size="173.320000">97</text>
+<text x="3740.200148" y="1740.200148" transform="rotate(-134.999993 3740.200148 1740.200148)" fill="darkgreen" font-weight="bold" font-size="173.320000">100</text>
+<text x="6406.866748" y="4406.866748" transform="rotate(-134.999993 6406.866748 4406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">100</text>
+<text x="2406.866737" y="1073.533459" transform="rotate(-134.999984 2406.866737 1073.533459)" fill="darkgreen" font-weight="bold" font-size="173.320000">103</text>
+<text x="2259.799863" y="926.466541" transform="rotate(45.000006 2259.799863 926.466541)" fill="darkgreen" font-weight="bold" font-size="173.320000">103</text>
+<text x="3073.533448" y="1073.533448" transform="rotate(-134.999993 3073.533448 1073.533448)" fill="darkgreen" font-weight="bold" font-size="173.320000">107</text>
+<text x="7073.533448" y="5073.533448" transform="rotate(-134.999993 7073.533448 5073.533448)" fill="darkgreen" font-weight="bold" font-size="173.320000">107</text>
+<text x="6259.799863" y="4926.466541" transform="rotate(45.000006 6259.799863 4926.466541)" fill="darkgreen" font-weight="bold" font-size="173.320000">110</text>
+<text x="6406.866737" y="5073.533459" transform="rotate(-134.999984 6406.866737 5073.533459)" fill="darkgreen" font-weight="bold" font-size="173.320000">110</text>
+<text x="7740.200148" y="5740.200148" transform="rotate(-134.999993 7740.200148 5740.200148)" fill="darkgreen" font-weight="bold" font-size="173.320000">113</text>
+<text x="2406.866748" y="406.866748" transform="rotate(-134.999993 2406.866748 406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">113</text>
+<text x="7073.533459" y="5740.200137" transform="rotate(-135.000001 7073.533459 5740.200137)" fill="darkgreen" font-weight="bold" font-size="173.320000">116</text>
+<text x="6926.466541" y="5593.133263" transform="rotate(44.999989 6926.466541 5593.133263)" fill="darkgreen" font-weight="bold" font-size="173.320000">116</text>
+<text x="4259.799852" y="8406.866748" transform="rotate(-44.999998 4259.799852 8406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">118</text>
+<text x="6259.799852" y="5593.133252" transform="rotate(44.999998 6259.799852 5593.133252)" fill="darkgreen" font-weight="bold" font-size="173.320000">118</text>
+<text x="5770.658700" y="4666.666600" transform="rotate(179.999990 5770.658700 4666.666600)" fill="darkgreen" font-weight="bold" font-size="173.320000">121</text>
+<text x="5562.674700" y="4666.666600" transform="rotate(0.000000 5562.674700 4666.666600)" fill="darkgreen" font-weight="bold" font-size="173.320000">121</text>
+<text x="4666.666600" y="7770.658700" transform="rotate(-89.999995 4666.666600 7770.658700)" fill="darkgreen" font-weight="bold" font-size="173.320000">124</text>
+<text x="5562.674700" y="5333.333400" transform="rotate(0.000000 5562.674700 5333.333400)" fill="darkgreen" font-weight="bold" font-size="173.320000">124</text>
+<text x="5103.992000" y="4666.666600" transform="rotate(179.999990 5103.992000 4666.666600)" fill="darkgreen" font-weight="bold" font-size="173.320000">129</text>
+<text x="4896.008000" y="4666.666600" transform="rotate(0.000000 4896.008000 4666.666600)" fill="darkgreen" font-weight="bold" font-size="173.320000">129</text>
+<text x="4666.666600" y="7103.992000" transform="rotate(-89.999995 4666.666600 7103.992000)" fill="darkgreen" font-weight="bold" font-size="173.320000">132</text>
+<text x="4896.008000" y="5333.333400" transform="rotate(0.000000 4896.008000 5333.333400)" fill="darkgreen" font-weight="bold" font-size="173.320000">132</text>
+<text x="4259.799852" y="4406.866748" transform="rotate(-44.999998 4259.799852 4406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">136</text>
+<text x="4406.866748" y="4259.799852" transform="rotate(134.999993 4406.866748 4259.799852)" fill="darkgreen" font-weight="bold" font-size="173.320000">136</text>
+<text x="4259.799863" y="5073.533459" transform="rotate(-45.000006 4259.799863 5073.533459)" fill="darkgreen" font-weight="bold" font-size="173.320000">138</text>
+<text x="4406.866737" y="4926.466541" transform="rotate(134.999984 4406.866737 4926.466541)" fill="darkgreen" font-weight="bold" font-size="173.320000">138</text>
+<text x="4259.799852" y="5740.200148" transform="rotate(-44.999998 4259.799852 5740.200148)" fill="darkgreen" font-weight="bold" font-size="173.320000">140</text>
+<text x="4406.866748" y="6406.866748" transform="rotate(-134.999993 4406.866748 6406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">140</text>
+<text x="1593.133252" y="1740.200148" transform="rotate(-44.999998 1593.133252 1740.200148)" fill="darkgreen" font-weight="bold" font-size="173.320000">141</text>
+<text x="1740.200148" y="1593.133252" transform="rotate(134.999993 1740.200148 1593.133252)" fill="darkgreen" font-weight="bold" font-size="173.320000">141</text>
+<text x="1740.200137" y="926.466541" transform="rotate(134.999984 1740.200137 926.466541)" fill="darkgreen" font-weight="bold" font-size="173.320000">144</text>
+<text x="1593.133263" y="1073.533459" transform="rotate(-45.000006 1593.133263 1073.533459)" fill="darkgreen" font-weight="bold" font-size="173.320000">144</text>
+<text x="1740.200148" y="259.799852" transform="rotate(134.999993 1740.200148 259.799852)" fill="darkgreen" font-weight="bold" font-size="173.320000">147</text>
+<text x="8406.866748" y="6406.866748" transform="rotate(-134.999993 8406.866748 6406.866748)" fill="darkgreen" font-weight="bold" font-size="173.320000">147</text>
+<text x="926.466541" y="1740.200137" transform="rotate(-44.999989 926.466541 1740.200137)" fill="darkgreen" font-weight="bold" font-size="173.320000">149</text>
+<text x="1073.533459" y="1593.133263" transform="rotate(135.000001 1073.533459 1593.133263)" fill="darkgreen" font-weight="bold" font-size="173.320000">149</text>
+<text x="1073.533448" y="926.466552" transform="rotate(134.999993 1073.533448 926.466552)" fill="darkgreen" font-weight="bold" font-size="173.320000">152</text>
+<text x="9073.533448" y="7073.533448" transform="rotate(-134.999993 9073.533448 7073.533448)" fill="darkgreen" font-weight="bold" font-size="173.320000">152</text>
+<text x="8259.799863" y="6926.466541" transform="rotate(45.000006 8259.799863 6926.466541)" fill="darkgreen" font-weight="bold" font-size="173.320000">155</text>
+<text x="8406.866737" y="7073.533459" transform="rotate(-134.999984 8406.866737 7073.533459)" fill="darkgreen" font-weight="bold" font-size="173.320000">155</text>
+<text x="9740.200148" y="7740.200148" transform="rotate(-134.999993 9740.200148 7740.200148)" fill="darkgreen" font-weight="bold" font-size="173.320000">157</text>
+<text x="406.866748" y="1593.133252" transform="rotate(134.999993 406.866748 1593.133252)" fill="darkgreen" font-weight="bold" font-size="173.320000">157</text>
+<text x="9073.533459" y="7740.200137" transform="rotate(-135.000001 9073.533459 7740.200137)" fill="darkgreen" font-weight="bold" font-size="173.320000">159</text>
+<text x="8926.466541" y="7593.133263" transform="rotate(44.999989 8926.466541 7593.133263)" fill="darkgreen" font-weight="bold" font-size="173.320000">159</text>
+<text x="8259.799852" y="7593.133252" transform="rotate(44.999998 8259.799852 7593.133252)" fill="darkgreen" font-weight="bold" font-size="173.320000">161</text>
+<text x="1593.133252" y="6259.799852" transform="rotate(44.999998 1593.133252 6259.799852)" fill="darkgreen" font-weight="bold" font-size="173.320000">161</text>
+</svg>
