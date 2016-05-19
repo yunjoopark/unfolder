@@ -944,10 +944,6 @@ Unlike testing on convex models, unfolding a non-convex model requires many atte
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-
-
-
 \clearpage
 \section{Foundings}
 Since I use a random vector $c$ with $\Vert c \Vert = 1$, I do not care about length. Although four methods do not work well for non-convex model, they successfully generate unfolded polygons for convex models. 
@@ -959,6 +955,35 @@ Since I use a random vector $c$ with $\Vert c \Vert = 1$, I do not care about le
 	\item{Height}
 	\\The height of tree of the rightmost ascending edge is higher than the others.
 \end{itemize}
+
+
+\section{GUI Options}
+It is possible to change back color of unfolded polygons.
+\begin{figure*}[th]
+\centering
+\includegraphics[width=0.2\textwidth]{FIGS/triakisicosahedron_s-wi-green.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/triakisicosahedron_s-wi-mint.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/triakisicosahedron_s-wi-ppink.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/triakisicosahedron_s-wi-skyblue.jpg}
+\caption{Triakisicosahedron using the steepest edge unfold method}
+\end{figure*}
+
+It is possible to generate a unfolded polygon randomly.
+\begin{figure*}[th]
+\centering
+\includegraphics[width=0.2\textwidth]{FIGS/dioctagonal_pyramid_s1.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/dioctagonal_pyramid_s2.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/dioctagonal_pyramid_s3.jpg}
+\hspace{5mm}
+\includegraphics[width=0.2\textwidth]{FIGS/dioctagonal_pyramid_s4.jpg}
+\caption{Dioctagonal pyramid using the steepest edge unfold method}
+\end{figure*}
+
 % \begin{figure*}[th]
 % \centering
 % \subfigure[The Steepest Edge Unfold]
